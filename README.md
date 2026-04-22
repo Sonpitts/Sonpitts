@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sonpitts
-- 👀 I’m interested in software development and coding.
-- 🌱 I’m currently learning Fullstack development at 100DEVS.
-- 💞️ I’m looking to collaborate on software development.
+- 👋 Hi, I’m Peter Kithuka
+- 👀 I’m interested in automation, coding, and software development.
+- 🌱 I’m currently learning automations, AI and coding.
+- 💞️ I’m looking to collaborate on automations, AI and software development.
 - 📫 Reach me via twitter @son_peter5.
 
 <!---
