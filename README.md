@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation, coding, and software development.
 - 🌱 I’m currently learning automations, AI and coding.
 - 💞️ I’m looking to collaborate on automations, AI and software development.
-- 📫 Reach me via twitter @son_peter5.
+- 📫 Reach me via linkedIn peter kithuka.
 
 <!---
 Sonpitts/Sonpitts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
